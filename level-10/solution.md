@@ -1,4 +1,4 @@
-🚩 OverTheWire Bandit: Level 10 ⮕ Level 11
+## 🚩 OverTheWire Bandit: Level 9 ⮕ Level 10
 
 Level 10 introduces us to **Base64 encoding**. This isn't encryption (it's not a secret code meant to be unreadable), but rather a way to represent binary data using only 64 printable characters. It's used everywhere—from email attachments to embedding images in HTML.
 
