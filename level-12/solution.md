@@ -1,4 +1,4 @@
-## 🚩 OverTheWire Bandit: Level 10 ⮕ Level 11
+## 🚩 OverTheWire Bandit: Level 11 ⮕ Level 12
 
 Level 12 is widely considered the "boss fight" of the early Bandit levels. It tests your ability to identify file types, decompress data repeatedly, and keep your workspace organized. You aren't just running one command; you are performing **reverse engineering**.
 
