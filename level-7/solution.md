@@ -70,4 +70,3 @@ By default, `grep` is case-sensitive. If you searched for "Millionth" (capital M
 `grep -i "millionth" data.txt`
 
 ---
-
