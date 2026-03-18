@@ -1,3 +1,4 @@
+## 🚩 OverTheWire Bandit: Level 10 ⮕ Level 11
 
 Level 12 is widely considered the "boss fight" of the early Bandit levels. It tests your ability to identify file types, decompress data repeatedly, and keep your workspace organized. You aren't just running one command; you are performing **reverse engineering**.
 
@@ -132,5 +133,3 @@ The `file` command works by looking at the first few bytes of a file (the "magic
 In the real world, installers and firmware updates are often "nested"—a compressed archive inside a compressed archive. Mastering this workflow is essential for malware analysis and system administration.
 
 ---
-
-**You’ve officially cleared the "Basics" section of Bandit! Level 13 moves into SSH Private Keys and identity files. Ready to see how servers authenticate without passwords?**
