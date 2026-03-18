@@ -71,4 +71,3 @@ By default, `grep` is case-sensitive. If you searched for "Millionth" (capital M
 
 ---
 
-**Ready for Level 8? Things get even more interesting—we'll be looking for a line of text that occurs exactly once in a file full of duplicates! Shall I continue?**
