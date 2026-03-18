@@ -72,5 +72,3 @@ Remember, the `s` in the permissions (`-rwsr-x---`) is your signal that this fil
 Notice that while the game tells you the password is "in the home directory" or "for the next level," the actual sensitive data on this server is kept in `/etc/bandit_pass/`. This mimics real-world systems where user passwords (or their hashes) are stored in protected system directories like `/etc/shadow`.
 
 ---
-
-**You've conquered the restricted shells! Level 27 moves into Git—the most popular version control system in the world. Ready to learn how to "clone" a repository and find secrets in the code?**
