@@ -1,4 +1,5 @@
 🚩 OverTheWire Bandit: Level 5 ⮕ Level 6
+
 Level 5 is a step up in complexity. Instead of one folder, you are presented with 20 directories, each containing multiple files. Manually checking each one with file would be exhausting.
 
 This level teaches you how to use the find command—one of the most powerful tools in a Linux administrator's arsenal.
@@ -16,6 +17,7 @@ The password for the next level is stored in a file somewhere under the inhere d
 Command	Purpose
 find	Search for files in a directory hierarchy based on specific criteria.
 cat	Display the contents of the file.
+
 🚶 Step-by-Step Walkthrough
 1. Log in to Level 5
 
