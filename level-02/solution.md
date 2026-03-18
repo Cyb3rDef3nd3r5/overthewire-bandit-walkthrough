@@ -1,3 +1,5 @@
+## 🚩 OverTheWire Bandit: Level 1 ⮕ Level 2
+
 This walkthrough covers **Level 2** of the OverTheWire Bandit wargame. At this stage, you’ve already mastered basic navigation and handling special characters like the hyphen. Now, we face a common real-world nuisance: **spaces in filenames**.
 
 ---
