@@ -1,4 +1,4 @@
-## 🚩 OverTheWire Bandit: Level 6 ⮕ Level 7
+## 🚩 OverTheWire Bandit: Level 7 ⮕ Level 8
 
 Level 8 introduces us to **data manipulation**. While Level 7 taught us how to find a specific word, Level 8 asks us to find a "unique" needle in a haystack of duplicates. This requires combining multiple commands into a **pipeline**.
 
