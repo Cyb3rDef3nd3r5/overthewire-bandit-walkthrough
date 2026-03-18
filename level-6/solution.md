@@ -1,4 +1,5 @@
 🚩 OverTheWire Bandit: Level 6 ⮕ Level 7
+
 Level 6 is a classic "needle in a haystack" challenge. Instead of searching a single folder, we are searching the **entire file system**. This requires a deeper understanding of how Linux handles permissions and ownership.
 
 ---
